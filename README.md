@@ -29,7 +29,7 @@ Crea un proyecto MAVEN siguiendo el esquema: org.mvpigs.commandpattern
 Respeta la estructura del proyecto indicada
 en el nombre de los paquetes que se indican en los casos test.
 
-- Realiza commits periÃ³dicamente mientras avanzas en el desarrollo de la aplicaciÃ³n.
+- Realiza commits periódicamente mientras avanzas en el desarrollo de la aplicación.
 - Publica tu solucion en GitHub.
 - Enviame tu proyecto comprimido en un ZIP a gelpiorama@gmail.com
 
